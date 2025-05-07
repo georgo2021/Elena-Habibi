@@ -1,19 +1,19 @@
-# 🛒 BigMart Sales Prediction
+# 👩‍💼 Employee Attrition Analysis
 
 ## 📌 Overview
-Built a regression model to predict sales revenue for products in a retail store using product attributes.
+Analyzed HR data to understand employee attrition patterns and factors affecting turnover.
 
 ## 🔧 Tools & Technologies
-- Python (pandas, NumPy, scikit-learn)
-- Linear regression
+- Python (pandas, seaborn, scikit-learn)
+- EDA and classification
 - Jupyter Notebook
 
 ## 📈 Key Steps
-- Data cleaning and imputation
-- Feature engineering
-- Model training and evaluation with RMSE
+- Data exploration and visualization
+- Label encoding and feature correlation
+- Classification modeling
 
 ## 🧠 What I Learned
-- Applied linear regression to real-world data
-- Feature selection and data transformation
-- Evaluating model performance
+- HR analytics using EDA
+- Preprocessing for classification
+- Modeling employee behavior

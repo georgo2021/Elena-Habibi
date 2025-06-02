@@ -37,7 +37,4 @@ The notebook performs end-to-end machine learning steps:
 - Jupyter Notebook
 - Matplotlib
 
----
-
-Made with ❤️ by a beginner in data science (B1 level).
 
